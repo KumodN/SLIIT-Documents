@@ -4,6 +4,8 @@
 # SLIIT-Documents
 SLIIT academic documents including; lecture slides, Lab sheets and tutorials(completed), Projects and Past papers. Additionally added some freebies which might help you.
 
+
+## LectureSlide + Labs + Tutes
 #Orientation : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/Er8oX_nVT5dElzoivvhLXjoBGyj0ibR4MGsiWYxfjnPd1A?e=CNOPDc
 
 #Y1S1 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/EgO3v05CpHpDof4lOef00FsBsMrBJigx5I0cKo6tI_qpuA?e=So1ekD
@@ -12,8 +14,8 @@ SLIIT academic documents including; lecture slides, Lab sheets and tutorials(com
 
 #Y2S1 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/EuV75ZWAKFFDgqZONTJtosEBj907ISCMI3j3bjSMdLoXRQ?e=ZUpBVw
 
-#SLIIT - PAST PAPERS
 
+## SLIIT - PAST PAPERS
 #Orientation : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/Epo5k2_5afJKuX6yLGy48IABxX3EQ2qoLVQI5DnBl7vjAg?e=ojJ1R4
 
 #Y1S1 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/ElVo0DbcHoREtxlZ3LXt2DMBlWvsFBcBzfk3BqVpp0SoTg?e=gUYWia
@@ -23,7 +25,24 @@ SLIIT academic documents including; lecture slides, Lab sheets and tutorials(com
 #Y2S1 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/ErDfysHdNRlJg9tNjJT5RMABgOg9zO_PCpdlyxuLAaEeJw?e=yW5DOs
 
 
-#FREEBIES
+## Projects
+#Y1S1 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/Enx6xkgGqJhBno8iPhtXIvkBC9TUeSc4wigsnENuTALI6A?e=WJSQHx
+
+#Y1S2 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/EtlRscxZ3T1ClGufIVtQzAEBISFJ8bnq3GufcYuBiHeCtw?e=qQb9M2
+
+#Y2S1 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/EssXGaQpZstPqDHLpoLmdjYB8syWbhTIPfpyall8i034cQ?e=V4S8Nc
+
+
+## FREEBIES
 #Track your academic performances : https://mysliit-my.sharepoint.com/:x:/g/personal/it23205888_my_sliit_lk/EdtWM81PDctAsnErYFSiU00BR-JfbsF6yrxiVSNW6YYeAA?e=6ATpl1
 
 #SLIIT INFORMATION : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/EuM_5M16yRpFmjZ73lSuT2kBGDVDtvQAv3KYJBvhh8QQeQ?e=AmKQns
+
+
+
+### 📜 Disclaimer
+The study materials in this repository are based on the 2017 syllabus from the Sri Lanka Institute of Information Technology (SLIIT). Please note that the curriculum has been updated since 2023, so some content may not fully reflect the current syllabus.
+
+Credit: All course materials, concepts, and structures are credited to the Sri Lanka Institute of Information Technology (SLIIT). These resources are shared for informational and educational purposes only and are not intended to substitute or infringe upon the institution's official curriculum.
+
+Use Responsibly: Please adhere to SLIIT’s academic integrity policies and respect the institution's guidelines when using these materials.
