@@ -40,7 +40,7 @@ SLIIT academic documents including; lecture slides, Lab sheets and tutorials(com
 
 
 
-### 📜 Disclaimer
+# 📜 Disclaimer
 The study materials in this repository are based on the 2017 syllabus from the Sri Lanka Institute of Information Technology (SLIIT). Please note that the curriculum has been updated since 2023, so some content may not fully reflect the current syllabus.
 
 Credit: All course materials, concepts, and structures are credited to the Sri Lanka Institute of Information Technology (SLIIT). These resources are shared for informational and educational purposes only and are not intended to substitute or infringe upon the institution's official curriculum.
