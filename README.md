@@ -1,3 +1,6 @@
+
+![Final-new-logo-of-SLIIT-1](https://github.com/user-attachments/assets/9458475d-e293-4805-b9d1-59322c2377d7)
+
 # SLIIT-Documents
 SLIIT academic documents including; lecture slides, Lab sheets and tutorials(completed), Projects and Past papers. Additionally added some freebies which might help you.
 
