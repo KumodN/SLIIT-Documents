@@ -48,7 +48,7 @@ SLIIT academic documents including; lecture slides, Lab sheets and tutorials(com
 
 #Y3S1 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/EgXWfCEOP-NLn-3cuebaVp4B62ci8-u8aGm4NKhL4JSA1Q?e=Zp2ioW
 
-#Y3S2 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/IgANWvI1efvUT6JFXL_y1jvpASCLii-V9oEfLXVyQN2xZSI?e=Vv0VPV
+#Y3S2 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/IgBrN-0CV7hzQr3lKKTiicnNAes4F0t0ojzHjym59498yKo?e=dYV6jV
 
 
 ## FREEBIES
