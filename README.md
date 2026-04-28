@@ -18,6 +18,8 @@ SLIIT academic documents including; lecture slides, Lab sheets and tutorials(com
 
 #Y3S1 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/Eop8g5MXuzpDlfSPAM57zvsBiHOsdCIYvomQKziTg_aqmQ?e=1eYbXJ
 
+#Y3S2 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/IgCk7PhDZaaoQbJuUKGvNm-cASmAxOwOpDgpQA_Nq1btrMM?e=d6fkW7
+
 
 ## SLIIT - PAST PAPERS
 #Orientation : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/Epo5k2_5afJKuX6yLGy48IABxX3EQ2qoLVQI5DnBl7vjAg?e=ojJ1R4
@@ -32,6 +34,8 @@ SLIIT academic documents including; lecture slides, Lab sheets and tutorials(com
 
 #Y3S1 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/EtgCnIEF42ZBi_jCqCjRyB8BTMDvpycBN1pf4AXVmqtoAA?e=WRv7Kv
 
+#Y3S2 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/IgANWvI1efvUT6JFXL_y1jvpASCLii-V9oEfLXVyQN2xZSI?e=Vv0VPV
+
 
 ## Projects
 #Y1S1 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/Enx6xkgGqJhBno8iPhtXIvkBC9TUeSc4wigsnENuTALI6A?e=WJSQHx
@@ -43,6 +47,8 @@ SLIIT academic documents including; lecture slides, Lab sheets and tutorials(com
 #Y2S2 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/Em04uGmLDChAs_LzP2gHI28BizcdMuduymB5eiYjD_w5JA?e=zCYoT7
 
 #Y3S1 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/EgXWfCEOP-NLn-3cuebaVp4B62ci8-u8aGm4NKhL4JSA1Q?e=Zp2ioW
+
+#Y3S2 : https://mysliit-my.sharepoint.com/:f:/g/personal/it23205888_my_sliit_lk/IgANWvI1efvUT6JFXL_y1jvpASCLii-V9oEfLXVyQN2xZSI?e=Vv0VPV
 
 
 ## FREEBIES
